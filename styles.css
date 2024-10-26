@@ -39,22 +39,19 @@ p {
   margin-bottom: 20px;
 }
 
-.container {
-  text-align: center; /* Centra el contenido del contenedor */
-}
-
 .social-icons {
   display: flex;
-  justify-content: center;
-  gap: 25px;
-  margin: 20px 0; 
+  justify-content: center; 
+  gap: 30px; 
+  margin: 20px 0;
 }
 
 .social-icons a {
-  color: #333;
+  color: #333; 
   text-decoration: none;
   font-size: 26px;
   transition: color 0.3s ease, transform 0.3s ease;
+}
 
 .social-icons a:hover {
   color: #007bff; 
