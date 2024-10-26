@@ -42,7 +42,7 @@ p {
 .social-icons {
   display: flex;
   justify-content: center; 
-  gap: 30px; 
+  gap: 40px; 
   margin: 20px 0;
 }
 
